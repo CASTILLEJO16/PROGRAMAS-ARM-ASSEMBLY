@@ -1,4 +1,4 @@
-
+/*
 ╔════════════════════════════════════════════════════════════════════╗
 ║                    TECNOLÓGICO NACIONAL DE MÉXICO                 ║
 ║                     INSTITUTO TECNOLÓGICO DE TIJUANA              ║
@@ -11,8 +11,9 @@
 ╠════════════════════════════════════════════════════════════════════╣
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════╝
-
-
+*/
+ASCIINEMA
+https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB
 .data
     prompt:       .asciz "El máximo en el arreglo:\n"
     maxMsg:       .asciz "El máximo valor en el arreglo es: "
