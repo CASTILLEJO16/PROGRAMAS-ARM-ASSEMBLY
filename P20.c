@@ -1,4 +1,5 @@
-#include <stdio.h>
+ASCIINEMA
+https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB#include <stdio.h>
 
 // Declaramos la función de ensamblador
 extern void matrix_multiplication();
