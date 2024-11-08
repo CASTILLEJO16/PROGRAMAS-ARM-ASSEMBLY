@@ -11,7 +11,8 @@
    ║                           Septiembre 2024                         ║
    ╚════════════════════════════════════════════════════════════════════╝
 */
-
+ASCIINEMA
+https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB
 /* Solución en C#:
 using System;
 
