@@ -11,6 +11,7 @@
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════╝
 */
+// ASCIINEMA:https://asciinema.org/a/aCgOe8AJxaizhrtO8vHOZsSNq
 .section .text
 .global ascii_to_int
 
