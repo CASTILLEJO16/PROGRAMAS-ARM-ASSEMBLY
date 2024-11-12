@@ -10,7 +10,9 @@
 ╠════════════════════════════════════════════════════════════════════╣
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════╝
-*/#include <stdio.h>
+// ASCIINEMA:https://asciinema.org/a/aCgOe8AJxaizhrtO8vHOZsSNq
+*/
+#include <stdio.h>
 
 // Declaración de las funciones en ensamblador
 extern int bitwise_and(int a, int b);
