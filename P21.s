@@ -10,7 +10,7 @@
 // ╠════════════════════════════════════════════════════════════════════╣
 // ║                           Septiembre 2024                         ║
 // ╚════════════════════════════════════════════════════════════════════╝
-
+// ASCIINEMA:https://asciinema.org/a/aCgOe8AJxaizhrtO8vHOZsSNq
 // Función en C# para transponer una matriz 3x3
 // Entradas:
 //   matrix: matriz original de 3x3
