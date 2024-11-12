@@ -1,4 +1,40 @@
-// Ejercicio21.s: Función en ensamblador para transponer una matriz 3x3
+// ╔════════════════════════════════════════════════════════════════════╗
+// ║                    TECNOLÓGICO NACIONAL DE MÉXICO                 ║
+// ║                     INSTITUTO TECNOLÓGICO DE TIJUANA              ║
+// ╠════════════════════════════════════════════════════════════════════╣
+// ║                   Carrera: Ingeniería en Sistemas                 ║
+// ║                   Nombre: Lennyn Alejandro Castillejo Robles      ║
+// ║                   Matrícula: 22210880                             ║
+// ║                   Materia: Programación en Ensamblador            ║
+// ║                                                                   ║
+// ╠════════════════════════════════════════════════════════════════════╣
+// ║                           Septiembre 2024                         ║
+// ╚════════════════════════════════════════════════════════════════════╝
+
+// Función en C# para transponer una matriz 3x3
+// Entradas:
+//   matrix: matriz original de 3x3
+// Salida:
+//   transposedMatrix: matriz transpuesta de 3x3
+
+// public static int[,] TransposeMatrix(int[,] matrix)
+// {
+//     int size = 3; // Tamaño de la matriz 3x3
+//     int[,] transposedMatrix = new int[size, size]; // Crear la matriz transpuesta
+
+//     for (int i = 0; i < size; i++) // Bucle externo: recorrer filas
+//     {
+//         for (int j = 0; j < size; j++) // Bucle interno: recorrer columnas
+//         {
+//             // Transponer el elemento de la posición [i, j] a [j, i]
+//             transposedMatrix[j, i] = matrix[i, j];
+//         }
+//     }
+
+//     return transposedMatrix;
+// }
+
+ Función en ensamblador para transponer una matriz 3x3
 .section .text
 .global transpose_matrix
 
