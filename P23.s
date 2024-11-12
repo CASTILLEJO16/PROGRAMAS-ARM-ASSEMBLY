@@ -11,6 +11,7 @@
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════╝
 */
+// ASCIINEMA:https://asciinema.org/a/aCgOe8AJxaizhrtO8vHOZsSNq
 // Convierte un número entero (0-9) en un carácter ASCII correspondiente
 .section .text
 .global int_to_ascii
