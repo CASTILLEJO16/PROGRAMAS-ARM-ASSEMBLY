@@ -10,6 +10,8 @@
 ╠════════════════════════════════════════════════════════════════════╣
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════*/
+//ASCIINEMA: https://asciinema.org/a/ha5WAgezGJ7A5yUZoJkFrdOyv
+
 
 // El siguiente código está diseñado para rotar un arreglo en C#.
 // Este código está completamente comentado para que no se ejecute.
