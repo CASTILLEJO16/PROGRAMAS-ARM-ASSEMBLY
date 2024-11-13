@@ -10,6 +10,7 @@
 /* ╠════════════════════════════════════════════════════════════════════╣ */
 /* ║                           Septiembre 2024                         ║ */
 /* ╚════════════════════════════════════════════════════════════════════╝ */
+//ASCIINEMA: https://asciinema.org/a/ha5WAgezGJ7A5yUZoJkFrdOyv
 
 /* Función en C# para realizar desplazamiento lógico a la izquierda y a la derecha */
 /* Entradas: */
