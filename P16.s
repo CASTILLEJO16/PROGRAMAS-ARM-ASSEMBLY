@@ -10,8 +10,8 @@
 // ╠════════════════════════════════════════════════════════════════════╣
 // ║                           Septiembre 2024                         ║
 // ╚════════════════════════════════════════════════════════════════════╝
-ASCIINEMA
-https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB
+//ASCIINEMA
+//https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB
 // Programa en C# para ordenar un arreglo usando el método de burbuja.
 /*
 using System;
