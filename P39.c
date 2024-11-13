@@ -1,5 +1,4 @@
 
-
 /*╔════════════════════════════════════════════════════════════════════╗
 ║                    TECNOLÓGICO NACIONAL DE MÉXICO                 ║
 ║                     INSTITUTO TECNOLÓGICO DE TIJUANA              ║
@@ -12,6 +11,8 @@
 ╠════════════════════════════════════════════════════════════════════╣
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════*/
+//ASCIINEMA: https://asciinema.org/a/ha5WAgezGJ7A5yUZoJkFrdOyv
+
 #include <stdio.h>
 
 void decimalToBinary(int decimal) {
