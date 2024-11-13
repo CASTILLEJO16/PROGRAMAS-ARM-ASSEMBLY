@@ -1,5 +1,17 @@
-ASCIINEMA
-https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB#include <stdio.h>
+// ╔════════════════════════════════════════════════════════════════════╗
+// ║                    TECNOLÓGICO NACIONAL DE MÉXICO                 ║
+// ║                     INSTITUTO TECNOLÓGICO DE TIJUANA              ║
+// ╠════════════════════════════════════════════════════════════════════╣
+// ║                   Carrera: Ingeniería en Sistemas                 ║
+// ║                   Nombre: Lennyn Alejandro Castillejo Robles      ║
+// ║                   Matrícula: 22210880                             ║
+// ║                   Materia: Programación en Ensamblador            ║
+// ║                                                                   ║
+// ╠════════════════════════════════════════════════════════════════════╣
+// ║                           Septiembre 2024                         ║
+// ╚════════════════════════════════════════════════════════════════════╝
+//ASCIINEMA
+//https://asciinema.org/a/b4e2JZdxrDQ7HVJzKUK3UZMFB#include <stdio.h>
 
 // Declaramos la función de ensamblador
 extern void matrix_multiplication();
