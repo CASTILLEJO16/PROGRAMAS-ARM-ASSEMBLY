@@ -11,6 +11,8 @@
 ╠════════════════════════════════════════════════════════════════════╣
 ║                           Septiembre 2024                         ║
 ╚════════════════════════════════════════════════════════════════════*/
+//ASCIINEMA: https://asciinema.org/a/ha5WAgezGJ7A5yUZoJkFrdOyv
+
 #include <stdio.h>
 #include <math.h>
 
