@@ -1,3 +1,15 @@
+// ╔════════════════════════════════════════════════════════════════════╗
+// ║                    TECNOLÓGICO NACIONAL DE MÉXICO                 ║
+// ║                     INSTITUTO TECNOLÓGICO DE TIJUANA              ║
+// ╠════════════════════════════════════════════════════════════════════╣
+// ║                   Carrera: Ingeniería en Sistemas                 ║
+// ║                   Nombre: Lennyn Alejandro Castillejo Robles      ║
+// ║                   Matrícula: 22210880                             ║
+// ║                   Materia: Programación en Ensamblador            ║
+// ║                                                                   ║
+// ╠════════════════════════════════════════════════════════════════════╣
+// ║                           Septiembre 2024                         ║
+// ╚════════════════════════════════════════════════════════════════════╝
 // ASCIINEMA:https://asciinema.org/a/aCgOe8AJxaizhrtO8vHOZsSNq
 #include <stdio.h>
 
