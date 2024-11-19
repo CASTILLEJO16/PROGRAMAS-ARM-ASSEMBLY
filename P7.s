@@ -10,7 +10,7 @@
 // ╠════════════════════════════════════════════════════════════════════╣
 // ║                           Septiembre 2024                         ║
 // ╚════════════════════════════════════════════════════════════════════╝
-
+//ASCIINEMA:https://asciinema.org/a/KmP25EZV8IphEyhLuc2oj8sGm
 // Código en C# para calcular el factorial de un número ingresado por el usuario
 /*
 using System;
