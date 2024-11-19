@@ -10,7 +10,7 @@
 // ╠════════════════════════════════════════════════════════════════════╣
 // ║                           Septiembre 2024                         ║
 // ╚════════════════════════════════════════════════════════════════════╝
-
+//ASCIINEMA:https://asciinema.org/a/KmP25EZV8IphEyhLuc2oj8sGm
 // Programa en C# para invertir una cadena ingresada por el usuario.
 /*
 using System;
