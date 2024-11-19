@@ -8,7 +8,7 @@
 // ║                   Materia: Programación en Ensamblador            ║
 // ║                                                                   ║
 // ╠════════════════════════════════════════════════════════════════════╣
-// ║                           Octubre 2024                            ║
+// ║                          noviembre 2024                            ║
 // ╚════════════════════════════════════════════════════════════════════╝
 //ASCIINEMA:https://asciinema.org/a/KmP25EZV8IphEyhLuc2oj8sGm
 // Código en C# (comentado):
