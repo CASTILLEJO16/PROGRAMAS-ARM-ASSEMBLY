@@ -10,7 +10,7 @@
 // ╠════════════════════════════════════════════════════════════════════╣
 // ║                           Septiembre 2024                         ║
 // ╚════════════════════════════════════════════════════════════════════╝
-
+//ASCIINEMA:https://asciinema.org/a/KmP25EZV8IphEyhLuc2oj8sGm
 /*
 // Programa en C# para verificar si un número ingresado es primo
 using System;
