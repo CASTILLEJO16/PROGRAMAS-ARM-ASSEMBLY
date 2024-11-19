@@ -13,6 +13,7 @@
 
 // Código en C# (comentado):
 /*
+//ASCIINEMA:https://asciinema.org/a/KmP25EZV8IphEyhLuc2oj8sGm
 using System;
 
 namespace SumaNumeros
